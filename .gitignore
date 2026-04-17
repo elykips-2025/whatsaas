@@ -43,5 +43,3 @@ postgres_data/
 
 # Public
 /public/uploads/
-
-docker-compose.yml
